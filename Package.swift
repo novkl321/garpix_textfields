@@ -19,8 +19,8 @@ let package = Package(
         // Dependencies declare other packages that this package depends on.
         .package(
             name: "GXUtilz",
-            url: "https://github.com/GARPIX-iOS/garpix_utils",
-            from: "1.3.3"
+            url: "https://github.com/novkl321/garpix_utils_test",
+            from: "1.10.0"
         ),
         
             .package(
